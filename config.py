@@ -14,3 +14,8 @@ ADMIN_ID=[7550552920]
 #a secret private channel where you get all user info who will start your bot
 #enter channel id and add -100 before channel id
 NOTIFY_CHANNEL = -1001234567890
+
+
+#Enter tg bot token from Bot father
+
+tg_token="Enter bot token"
