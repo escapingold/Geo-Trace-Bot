@@ -231,7 +231,7 @@ async def ip_info(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 
 def main() -> None:
     """Start the bot and set up the handlers"""
-    TELEGRAM_TOKEN = "7725555068:AAFPbtq432nGsN-sBakCNTw2nnrLdp-PyiY"
+    TELEGRAM_TOKEN = tg_token
 
     application = Application.builder().token(TELEGRAM_TOKEN).build()
 
