@@ -56,14 +56,14 @@ Replace the placeholders with your Telegram bot token and IP Lookup API key.
 
 Run the bot:
 
-python GeoTrace.py
+`python GeoTrace.py`
 
 The bot will now be running and will respond to requests in Telegram! 💬
 
 #💡 Usage
 To start the bot, search for it on Telegram and press "Start" 🚀
 
-Send an IP address using the /ip command to the bot, and it will return detailed information about that IP.
+Send an IP address using the `/ip<ip>` command to the bot, and it will return detailed information about that IP.
 Example:
 
 Type an IP address (e.g., 8.8.8.8).
