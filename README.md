@@ -3,7 +3,7 @@
 This is a Telegram bot that allows users to retrieve detailed information about any IP address. The bot can look up IP location, ISP, hostname, and other important data. It's designed to be easy to use, fast, and accurate. 🚀
 
 ✨ Features
-Get detailed information about an IP address 🌐
+Get detailed information about an IP address 🌐\n
 Supports both IPv4 and IPv6 addresses 🌍
 Provides information like:
 Country 🌏
